@@ -1,0 +1,20 @@
+{
+	"whitelisted_users": [
+		"9cFjoV3ihGxFyeDUFWqLSSNxYBrS5knhmS1pizSomCPt"
+	],
+
+	"tickets": [
+		{
+			"name": "Standard",
+			"amount": 25
+		},
+		{
+			"name": "Premium",
+			"amount": 100
+		},
+		{
+			"name": "Exclusive",
+			"amount": 500
+		}
+	]
+}
